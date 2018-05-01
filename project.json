@@ -1,0 +1,8 @@
+{
+  "name": "magrath-hello-world",
+  "description": "Hello World",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::*******:role/magrath-hello-world_lambda_function",
+  "environment": {}
+}
